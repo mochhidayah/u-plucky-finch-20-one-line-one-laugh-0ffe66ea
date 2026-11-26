@@ -1,0 +1,4 @@
+# one-line-one-laugh: nothing to ignore yet, kept so the forge stays tidy
+node_modules/
+output/
+*.log
